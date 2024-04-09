@@ -1,0 +1,2 @@
+2024/04/07 10:46:13 error happend open no-file.txt: The system cannot find the file specified.
+2024/04/07 10:46:13 this is fatal function writing log to the file open no-file.txt: The system cannot find the file specified.
